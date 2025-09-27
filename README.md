@@ -19,8 +19,11 @@ https://www.kaggle.com/code/appasamig/mri-cnn-all-efficientnet-b0-b7-part14
 
 The code for all Efficientnet V2 available at the following link:
 
-
 https://www.kaggle.com/code/appasamig/mri-cnn-efficientnet-v2-b0-b7-part4
+
+Paper iink
+
+https://link.springer.com/article/10.1007/s10791-025-09603-4
 
 
 Reference:
