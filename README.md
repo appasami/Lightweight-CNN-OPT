@@ -27,6 +27,7 @@ https://link.springer.com/article/10.1007/s10791-025-09603-4
 
 
 
+
 **Reference:**
 
 Appasami, G., Savarimuthu, N. A novel lightweight CNN design for MRI brain tumor image classification with performance-driven optimization. Discov Computing 28, 206 (2025). https://doi.org/10.1007/s10791-025-09603-4
